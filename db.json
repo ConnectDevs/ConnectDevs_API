@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "leticia@mail.com",
+      "password": "$2a$10$iyk5G80DqTsOZ1.9WQk5Luwoms9i/qtPW4V64Jt34Iinr3RVetbJW",
+      "name": "Leticia Pereira Queiroga",
+      "username": "LeticiaQueiroga",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "Qual a melhor linguagem de programação na sua opniao? Veja mais",
+      "text": "sdcadcaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "links": [
+    {
+      "link": "https://kenzie-burguer-v2-leticia-pq-ueiroga.vercel.app",
+      "userId": 2,
+      "id": 1
+    }
+  ]
+}
