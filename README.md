@@ -6,7 +6,7 @@ Endpoints
 Endpoints
 A API tem um total de 4 endpoints, podendo cadastrar seu usuario, realizar login e busca de posts e links.
 
-A url base da API é
+A url base da API é :https://connectdevsapi.onrender.com
 
 Criação de usuário
 POST /register - FORMATO DA REQUISIÇÃO
