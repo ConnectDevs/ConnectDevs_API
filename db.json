@@ -13,6 +13,13 @@
       "name": "Leticia Pereira Queiroga",
       "username": "LeticiaQueiroga",
       "id": 2
+    },
+    {
+      "email": "leticiaq@mail.com",
+      "password": "$2a$10$DJv3k6lpwSfM2Kjo8JLYlev4BE2F0bVZFyTyRExBMQ28cFVP11SKW",
+      "name": "Leticia Pereira Queiroga",
+      "username": "LeticiaQueiroga",
+      "id": 3
     }
   ],
   "posts": [
@@ -21,6 +28,13 @@
       "text": "sdcadcaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "userId": 2,
       "id": 2
+    },
+    {
+      "title": "Qual a melhor linguagem de programação na sua opniao? Diga la",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "userId": 3,
+      "username": "LeticiaQueiroga",
+      "id": 3
     }
   ],
   "links": [
