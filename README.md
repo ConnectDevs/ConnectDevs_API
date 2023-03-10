@@ -206,7 +206,9 @@ DADOS DA RESPOSTA:
     </br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"userId": 2,
     </br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"id": 2
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"id": 2,
+    </br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"username": "LeticiaQueiroga"
     </br>
 }]
 
@@ -227,6 +229,8 @@ FORMATO DA REQUISIÇÂO:&nbsp;&nbsp; ``POST /posts``
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     </br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"userId": 2 &nbsp;&nbsp;&nbsp;&nbsp;**[ Id do Usuário ]**
+    </br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"username": "LeticiaQueiroga"
     </br>
 }
 
@@ -250,6 +254,8 @@ DADOS DA RESPOSTA:
     </br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"id": 2
     </br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"username": "LeticiaQueiroga"
+    </br>
 }]
 
 </br>
@@ -269,6 +275,8 @@ FORMATO DA REQUISIÇÂO:&nbsp;&nbsp; ``PATCH /posts/id`` &nbsp;&nbsp;&nbsp;&nbsp
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     </br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"userId":2 &nbsp;&nbsp;&nbsp;&nbsp;**[ Id do Usuário ]**
+    </br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"username": "LeticiaQueiroga"
     </br>
 }
 
@@ -291,6 +299,8 @@ DADOS DA RESPOSTA:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"userId":2
     </br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"id": 2
+    </br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"username": "LeticiaQueiroga"
     </br>
 }]
 
